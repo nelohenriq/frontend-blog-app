@@ -56,7 +56,7 @@ const CTA = () => {
                 />
                 <div className="p-5">
                   <h2 className="font-roboto font-bold text-xl text-dark-soft lg:text-[28px]">
-                    The best aticles every week
+                    The best articles every week
                   </h2>
                   <p className=" text-dark-light mt-3 text-sm">
                     Our insurance plans offers are priced the same everywhere
