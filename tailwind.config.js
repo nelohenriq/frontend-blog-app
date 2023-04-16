@@ -10,6 +10,7 @@ module.exports = {
           hard: "#0D2436",
           soft: "#183B56",
         },
+        secondary: "#B3BAC5",
       },
       fontFamily: {
         opensans: ["'Open Sans'", "sans-serif"],
